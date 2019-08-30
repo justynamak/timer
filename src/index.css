@@ -3,3 +3,6 @@ body {
   height: 100vh;
   background-color: #4242a4;
 }
+ul {
+  list-style-type: none;
+}

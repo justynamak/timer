@@ -1,6 +1,6 @@
 import React from "react";
 
-const Add = ({ click, name, active }) => (
+const Stop = ({ click, name, active }) => (
   <button
     type="button"
     className={
@@ -10,8 +10,8 @@ const Add = ({ click, name, active }) => (
     }
     onClick={click}
   >
-    Add
+    Stop
   </button>
 );
 
-export default Add;
+export default Stop;

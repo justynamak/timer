@@ -1,9 +1,13 @@
 import React from "react";
 
-const Start = ({ click }) => (
+const Start = ({ click, name, active }) => (
   <button
     type="button"
-    className="btn btn-outline-light btn-lg"
+    className={
+      active.includes(name)
+        ? "btn btn-outline-light btn-lg mr-2 active"
+        : "btn btn-outline-light btn-lg mr-2"
+    }
     onClick={click}
   >
     Start

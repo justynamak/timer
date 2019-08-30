@@ -1,6 +1,6 @@
 import React from "react";
 
-const Add = ({ click, name, active }) => (
+const Zero = ({ click, name, active }) => (
   <button
     type="button"
     className={
@@ -10,8 +10,8 @@ const Add = ({ click, name, active }) => (
     }
     onClick={click}
   >
-    Add
+    Zero
   </button>
 );
 
-export default Add;
+export default Zero;

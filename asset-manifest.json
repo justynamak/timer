@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/timer/static/css/main.88ab395c.chunk.css",
-    "main.js": "/timer/static/js/main.f87cbf0c.chunk.js",
-    "main.js.map": "/timer/static/js/main.f87cbf0c.chunk.js.map",
-    "runtime~main.js": "/timer/static/js/runtime~main.eeda70c8.js",
-    "runtime~main.js.map": "/timer/static/js/runtime~main.eeda70c8.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/timer/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.dd8038f1.chunk.js": "/timer/static/js/2.dd8038f1.chunk.js",
-    "static/js/2.dd8038f1.chunk.js.map": "/timer/static/js/2.dd8038f1.chunk.js.map",
-    "index.html": "/timer/index.html",
-    "precache-manifest.2c8abe9911e18d001b7187f83bbc5e4b.js": "/timer/precache-manifest.2c8abe9911e18d001b7187f83bbc5e4b.js",
-    "service-worker.js": "/timer/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/timer/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.88ab395c.chunk.css.map": "/timer/static/css/main.88ab395c.chunk.css.map"
+    "main.css": "/timer-create-react-app/static/css/main.ba393643.chunk.css",
+    "main.js": "/timer-create-react-app/static/js/main.a6de000b.chunk.js",
+    "main.js.map": "/timer-create-react-app/static/js/main.a6de000b.chunk.js.map",
+    "runtime~main.js": "/timer-create-react-app/static/js/runtime~main.828ee6f5.js",
+    "runtime~main.js.map": "/timer-create-react-app/static/js/runtime~main.828ee6f5.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/timer-create-react-app/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.dd8038f1.chunk.js": "/timer-create-react-app/static/js/2.dd8038f1.chunk.js",
+    "static/js/2.dd8038f1.chunk.js.map": "/timer-create-react-app/static/js/2.dd8038f1.chunk.js.map",
+    "index.html": "/timer-create-react-app/index.html",
+    "precache-manifest.de5e46c66517f5c8e227f627e40625a9.js": "/timer-create-react-app/precache-manifest.de5e46c66517f5c8e227f627e40625a9.js",
+    "service-worker.js": "/timer-create-react-app/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/timer-create-react-app/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.ba393643.chunk.css.map": "/timer-create-react-app/static/css/main.ba393643.chunk.css.map"
   }
 }
